@@ -11,6 +11,10 @@
 *_pendiente de que los integrantes envien la información para subirla_*
 
 ## Descripción del proyecto
+<div align="center">
+<img width="384" height="256" alt="Designer" src="https://github.com/user-attachments/assets/e96813b2-f2e1-41c9-bd88-879008165d28" />
+</div>
+
 Con el fin de dar solución a los prestamos de articulos que el señor Michael Jackson Gamboa realiza, se pretende desarollar un aplicativo que permita controlar lo que se presta, a quien se le presta y disponibilidad de los diferentes articulos, con el fin de ejercer un mayor control en relación a la gestión de los prestamos<br>
 
 ## Licencia del software
