@@ -1,4 +1,4 @@
-# Gestor de prestamos *Presta Facil MJ*
+# Gestor de prestamos *Presta Fácil MJ*
 
 ## Integrantes
 - Grace Sabogal Velasco <br>
@@ -26,7 +26,7 @@ Con el fin de dar solución a los prestamos de articulos que el señor Michael J
 La licencia que se ha definido para el registro del software es "MIT license" 
 
 ## Reporte de visión
-Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta Facil MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
+Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta Fácil MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
 
 ### Objetivos
 
@@ -142,4 +142,13 @@ gantt
     Pruebas del sistema          :a11, 11, 2d
     Manual de usuario            :a12, 13, 2d
     Organización GitHub          :a13, 13, 2d
-    Preparación sustentación     :a14, 15, 2d
+    Preparación sustentación     :a14, 15, 2d 
+```
+
+## Presupuesto del proyecto
+
+El desarrollo del proyecto no representa un costo económico directo, ya que se realiza como parte del proceso de formación académica. En este caso, el recurso principal es el tiempo invertido por los integrantes del equipo.
+
+El grupo está conformado por cuatro estudiantes, quienes dedicarán un total de 50 horas de trabajo para el desarrollo completo del proyecto. Estas horas corresponden a tiempo de práctica de formación.
+
+De acuerdo con los lineamientos establecidos, este tiempo será valorado como práctica profesional, equivalente a un (1) Salario Mínimo Legal Vigente (SMLV).
