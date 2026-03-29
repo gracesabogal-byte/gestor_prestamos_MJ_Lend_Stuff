@@ -23,12 +23,38 @@
 Con el fin de dar solución a los prestamos de articulos que el señor Michael Jackson Gamboa realiza, se pretende desarollar un aplicativo que permita controlar lo que se presta, a quien se le presta y disponibilidad de los diferentes articulos, con el fin de ejercer un mayor control en relación a la gestión de los prestamos<br>
 
 ## Licencia del software
-MIT license 
+La licencia que se ha definido para el registro del software es "MIT license" 
 
 ## Reporte de visión
-*descripcion general del software PENDIENTE*
+Una plataforma digital de gestión para el proyecto Gestor de prestamo "Todo Facil", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
 
-## Especificación de requisisitos 
+Objetivos
+
+* Desarrollar un programa en Python que permita a MJ gestionar su inventario de objetos prestados.
+* Registrar préstamos y devoluciones.
+* Generar notificaciones automáticas para garantizar la recuperación o venta de los artículos.
+
+Usuarios del sistema
+
+* Usuario principal: Michael Jackson Gamboa
+* Usuarios secundarios: Personas registradas que solicitan préstamos
+
+Reglas de negocio
+
+* Un objeto prestado por más de 20 días genera una notificación de devolución
+* Si el objeto supera los 30 días sin ser devuelto, se genera una factura de venta
+* El valor de venta corresponde al precio de adquisición del objeto
+* Todo préstamo debe estar asociado a un usuario registrado
+
+Beneficios
+
+* Organización del inventario.
+* Reducción de pérdidas de objetos.
+* Mejor control de préstamos.
+* Automatización de recordatorios.
+* Mayor responsabilidad de los usuarios.
+
+## Especificación de requisitos 
 *PENDIENTE*
 
 ## Plan del Proyecto
