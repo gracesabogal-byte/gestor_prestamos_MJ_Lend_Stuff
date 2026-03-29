@@ -8,7 +8,12 @@
 
 ## Vinculos académicos y descripción
 
-*_pendiente de que los integrantes envien la información para subirla_*
+| Nombre | Carrera | Habilidades | Fortalezas |
+|--------|--------|------------|------------|
+| Grace Sabogal Velasco | Ingeniería Industrial | Trabajo en equipo, compartir conocimientos, trabajo bajo presión, resolución de problemas | Responsabilidad, honestidad, compromiso, apoyo a los demás |
+| Daniela Duque Arango | Ingeniería Industrial | Análisis, toma de decisiones, trabajo en equipo, manejo emocional | Disciplina, mejora continua, compromiso, empatía |
+| Laura Cristina Pérez Bedoya | Ingeniería Industrial | Análisis, pensamiento crítico, organización, multitareas | Responsabilidad, organización, constancia, compromiso |
+| Luz Adriana Valencia Ramírez | Ingeniería Industrial | Responsabilidad, disciplina, resiliencia, orientación a resultados | Comunicación, trabajo en equipo, organización, inteligencia emocional |
 
 ## Descripción del proyecto
 <div align="center">
@@ -26,6 +31,6 @@ MIT license
 ## Especificación de requisisitos 
 *PENDIENTE*
 
-## Pan del Proyecto
+## Plan del Proyecto
 *PENDIENTE DIAGRAMA DE GRANT*
 
