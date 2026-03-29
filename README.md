@@ -4,7 +4,7 @@
 - Grace Sabogal Velasco <br>
 - Daniela Duque Arango <br>
 - Laura Cristina Pérez Bedoya <br>
-- luz Adriana Valencia Ramírez <br>
+- Luz Adriana Valencia Ramírez <br>
 
 ## Vinculos académicos y descripción
 
