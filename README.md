@@ -1,4 +1,4 @@
-# Gestor de prestamos *Presta Fácil MJ*
+# Gestor de prestamos *Prestaplus MJ*
 
 ## Integrantes
 - Grace Sabogal Velasco <br>
@@ -26,7 +26,7 @@ Con el fin de dar solución a los prestamos de articulos que el señor Michael J
 La licencia que se ha definido para el registro del software es "MIT license" 
 
 ## Reporte de visión
-Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta Fácil MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
+Una plataforma digital de gestión para el proyecto Gestor de prestamo "Prestaplus MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
 
 ### Objetivos
 
@@ -97,7 +97,7 @@ El sistema debe permitir:
 
 ## Plan del Proyecto
 
-Para el desarrollo del sistema Presta Facil MJ, se definieron las siguientes actividades, teniendo en cuenta las necesidades del caso y los requerimientos planteados:
+Para el desarrollo del sistema Prestaplus MJ, se definieron las siguientes actividades, teniendo en cuenta las necesidades del caso y los requerimientos planteados:
 
 * Análisis del problema y comprensión del funcionamiento actual de los préstamos en MJ 
 * Definición de requisitos del sistema (usuarios, ítems, préstamos y ventas) 
