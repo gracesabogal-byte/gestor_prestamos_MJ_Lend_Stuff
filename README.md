@@ -20,13 +20,17 @@
 <img width="384" height="256" alt="Designer" src="https://github.com/user-attachments/assets/e96813b2-f2e1-41c9-bd88-879008165d28" />
 </div>
 
-Con el fin de dar solución a los prestamos de articulos que el señor Michael Jackson Gamboa realiza, se pretende desarollar un aplicativo que permita controlar lo que se presta, a quien se le presta y disponibilidad de los diferentes articulos, con el fin de ejercer un mayor control en relación a la gestión de los prestamos<br>
+<div align="justify">
+    Con el fin de dar solución a los prestamos de articulos que el señor Michael Jackson Gamboa realiza, se pretende desarollar un aplicativo que permita controlar lo que se presta, a quien se le presta y disponibilidad de los diferentes articulos, con el fin de ejercer un mayor control en relación a la gestión de los prestamos.</div>
 
 ## Licencia del software
+
 La licencia que se ha definido para el registro del software es "MIT license" 
 
 ## Reporte de visión
-Una plataforma digital de gestión para el proyecto Gestor de prestamo "Prestaplus MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
+
+<div align="justify"> 
+    Una plataforma digital de gestión para el proyecto Gestor de prestamo "Prestaplus MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.</div>
 
 ### Objetivos
 
@@ -39,7 +43,8 @@ Una plataforma digital de gestión para el proyecto Gestor de prestamo "Prestapl
 
 ### Reglas de negocio
 
-El sistema incluirá funciones para generar recordatorios automáticos después de cierto tiempo, así como notificaciones para solicitar la devolución de los objetos cuando se presenten retrasos. En caso de que un objeto no sea devuelto dentro del tiempo establecido, el sistema permitirá ejecutar un proceso de venta, generando una factura con el valor correspondiente.
+<div align="justify"> 
+    El sistema incluirá funciones para generar recordatorios automáticos después de cierto tiempo, así como notificaciones para solicitar la devolución de los objetos cuando se presenten retrasos. En caso de que un objeto no sea devuelto dentro del tiempo establecido, el sistema permitirá ejecutar un proceso de venta, generando una factura con el valor correspondiente. </div>
 
 ### Beneficios
 
@@ -146,7 +151,7 @@ gantt
 ```
 
 ## Presupuesto del proyecto
-
+ 
 El desarrollo del proyecto no representa un costo económico directo, ya que se realiza como parte del proceso de formación académica. En este caso, el recurso principal es el tiempo invertido por los integrantes del equipo.
 
 El grupo está conformado por cuatro estudiantes, quienes dedicarán un total de 50 horas de trabajo para el desarrollo completo del proyecto. Estas horas corresponden a tiempo de práctica de formación.
