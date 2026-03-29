@@ -1,4 +1,4 @@
-# Gestor de prestamos *Todo Facil*
+# Gestor de prestamos *Presta Facil MJ*
 
 ## Integrantes
 - Grace Sabogal Velasco <br>
@@ -26,27 +26,25 @@ Con el fin de dar solución a los prestamos de articulos que el señor Michael J
 La licencia que se ha definido para el registro del software es "MIT license" 
 
 ## Reporte de visión
-Una plataforma digital de gestión para el proyecto Gestor de prestamo "Todo Facil", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
+Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta Facil MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.
 
-Objetivos
+### Objetivos
 
 * Desarrollar un programa en Python que permita a MJ gestionar su inventario de objetos prestados.
 * Registrar préstamos y devoluciones.
 * Generar notificaciones automáticas para garantizar la recuperación o venta de los artículos.
+* Reducción de pérdidas de artículos.
+* Automatización en la generación de certificados y facturas.
+* Consulta rápida del estado de los préstamos.
 
-Usuarios del sistema
-
-* Usuario principal: Michael Jackson Gamboa
-* Usuarios secundarios: Personas registradas que solicitan préstamos
-
-Reglas de negocio
+### Reglas de negocio
 
 * Un objeto prestado por más de 20 días genera una notificación de devolución
 * Si el objeto supera los 30 días sin ser devuelto, se genera una factura de venta
 * El valor de venta corresponde al precio de adquisición del objeto
 * Todo préstamo debe estar asociado a un usuario registrado
 
-Beneficios
+### Beneficios
 
 * Organización del inventario.
 * Reducción de pérdidas de objetos.
@@ -55,7 +53,48 @@ Beneficios
 * Mayor responsabilidad de los usuarios.
 
 ## Especificación de requisitos 
-*PENDIENTE*
+
+### Requisitos funcionales
+El sistema debe permitir:
+
+* Registrar usuarios.
+* Iniciar sesión.
+* Registrar artículos disponibles para préstamo.
+* Prestar artículos a los usuarios.
+* Registrar la fecha de préstamo y devolución.
+* Devolver artículos y generar certificado de devolución.
+* Mostrar la disponibilidad de los artículos.
+* Generar alertas de retraso en devoluciones.
+* Permitir consultar historial de préstamos.
+* Permitir editar y eliminar registros.
+* Exportar información a CSV.
+* Guardar información.
+
+### Requisitos no funcionales
+
+* La aplicación debe ser fácil de usar (interfaz intuitiva).
+* Debe ser desarrollado en Phyton.
+* El sistema debe responder en menos de 3 segundos.
+* La información debe almacenarse de forma segura.
+* El sistema debe estar disponible el 95% del tiempo.
+* Debe permitir acceso desde computador o celular.
+
+### Usuarios del sistema
+
+* Usuario principal: Michael Jackson Gamboa
+* Usuarios secundarios: Personas registradas que solicitan préstamos
+
+### Entradas del sistema
+
+* Datos del usuario
+* Datos del artículo
+* Fechas de préstamo y devolución
+
+### Salidas del sistema
+
+* Listado de artículos disponibles
+* Reporte de préstamos
+* Alertas de retrasos
 
 ## Plan del Proyecto
 *PENDIENTE DIAGRAMA DE GRANT*
