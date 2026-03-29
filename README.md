@@ -34,15 +34,12 @@ Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta F
 * Registrar préstamos y devoluciones.
 * Generar notificaciones automáticas para garantizar la recuperación o venta de los artículos.
 * Reducción de pérdidas de artículos.
-* Automatización en la generación de certificados y facturas.
+* Automatizar la generación de certificados y facturas.
 * Consulta rápida del estado de los préstamos.
 
 ### Reglas de negocio
 
-* Un objeto prestado por más de 20 días genera una notificación de devolución
-* Si el objeto supera los 30 días sin ser devuelto, se genera una factura de venta
-* El valor de venta corresponde al precio de adquisición del objeto
-* Todo préstamo debe estar asociado a un usuario registrado
+El sistema incluirá funciones para generar recordatorios automáticos después de cierto tiempo, así como notificaciones para solicitar la devolución de los objetos cuando se presenten retrasos. En caso de que un objeto no sea devuelto dentro del tiempo establecido, el sistema permitirá ejecutar un proceso de venta, generando una factura con el valor correspondiente.
 
 ### Beneficios
 
@@ -51,6 +48,7 @@ Una plataforma digital de gestión para el proyecto Gestor de prestamo "Presta F
 * Mejor control de préstamos.
 * Automatización de recordatorios.
 * Mayor responsabilidad de los usuarios.
+* Posibilidad de consultar la información en cualquier momento de forma clara y organizada.
 
 ## Especificación de requisitos 
 
@@ -59,6 +57,7 @@ El sistema debe permitir:
 
 * Registrar usuarios.
 * Iniciar sesión.
+* El sistema debe validar que el correo electrónico tenga formato válido (incluya “@” y termine en “.com”). 
 * Registrar artículos disponibles para préstamo.
 * Prestar artículos a los usuarios.
 * Registrar la fecha de préstamo y devolución.
@@ -97,5 +96,50 @@ El sistema debe permitir:
 * Alertas de retrasos
 
 ## Plan del Proyecto
-*PENDIENTE DIAGRAMA DE GRANT*
 
+Para el desarrollo del sistema Presta Facil MJ, se definieron las siguientes actividades, teniendo en cuenta las necesidades del caso y los requerimientos planteados:
+
+* Análisis del problema y comprensión del funcionamiento actual de los préstamos en MJ 
+* Definición de requisitos del sistema (usuarios, ítems, préstamos y ventas) 
+* Diseño de la estructura general del sistema (menú y módulos principales) 
+* Diseño de la lógica para el manejo de inventario y control de préstamos 
+* Desarrollo del módulo de registro de usuarios con sus respectivas validaciones 
+* Desarrollo del módulo de registro de ítems, incluyendo categorías, identificación única y estado 
+* Desarrollo del módulo de préstamos con validaciones de disponibilidad y restricción de usuarios 
+* Desarrollo del módulo de devoluciones con generación de certificados 
+* Implementación de notificaciones automáticas cuando se superen los 20 días de préstamo 
+* Desarrollo del módulo de ventas con cálculo de impuesto del 23% y generación de factura 
+* Implementación del almacenamiento de datos en archivos planos 
+* Desarrollo del módulo administrador con autenticación 
+* Generación de reportes del sistema 
+* Realización de pruebas conceptuales para validar la lógica antes del código 
+* Corrección de errores y ajustes del sistema 
+* Documentación del proyecto y organización del repositorio en GitHub 
+
+```mermaid
+gantt
+    title Cronograma Proyecto Gestor de Préstamos
+    dateFormat  D
+    axisFormat %d
+
+    section Planeación
+    Análisis del problema        :a1, 1, 2d
+    Definición de requisitos     :a2, 1, 2d
+
+    section Diseño
+    Diseño del sistema           :a3, 3, 2d
+    Diseño de lógica             :a4, 3, 2d
+
+    section Desarrollo
+    Registro de usuarios         :a5, 5, 2d
+    Registro de ítems            :a6, 5, 2d
+    Módulo de préstamos          :a7, 7, 2d
+    Pruebas conceptuales         :a8, 7, 2d
+    Desarrollo en Python         :a9, 9, 2d
+    Funcionalidades finales      :a10, 11, 2d
+
+    section Cierre
+    Pruebas del sistema          :a11, 11, 2d
+    Manual de usuario            :a12, 13, 2d
+    Organización GitHub          :a13, 13, 2d
+    Preparación sustentación     :a14, 15, 2d
