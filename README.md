@@ -29,8 +29,47 @@ MIT license
 *descripcion general del software PENDIENTE*
 
 ## Especificación de requisisitos 
-*PENDIENTE*
+-Requisitos funcionales
+El sistema debe permitir registrar usuarios.
+El sistema debe permitir iniciar sesión.
+El sistema debe registrar artículos disponibles para préstamo.
+El sistema debe permitir prestar artículos a los usuarios.
+El sistema debe registrar la fecha de préstamo y devolución.
+El sistema debe permitir devolver artículos.
+El sistema debe mostrar la disponibilidad de los artículos.
+El sistema debe generar alertas de retraso en devoluciones.
+El sistema debe permitir consultar historial de préstamos.
+El sistema debe permitir editar y eliminar registros.
+
+-Requisitos no funcionales
+La aplicación debe ser fácil de usar (interfaz intuitiva).
+El sistema debe responder en menos de 3 segundos.
+La información debe almacenarse de forma segura.
+El sistema debe estar disponible el 95% del tiempo.
+Debe permitir acceso desde computador o celular.
+
+-Actores del sistema
+Administrador
+Usuario (quien solicita el préstamo)
+
+-Entradas del sistema
+Datos del usuario
+Datos del artículo
+Fechas de préstamo y devolución
+
+-Salidas del sistema
+Listado de artículos disponibles
+Reporte de préstamos
+Alertas de retrasos
 
 ## Plan del Proyecto
-*PENDIENTE DIAGRAMA DE GRANT*
+Actividad	            Semana 1	Semana 2	Semana 3	Semana 4
+Análisis del problema	  █████			
+Definición de requisito █████			
+Diseño del sistema		            █████		
+Desarrollo (programación)	        █████  	█████	
+Pruebas del sistema		 	                  █████	
+Ajustes y mejoras			                    █████	    █████
+Documentación			                                 	█████
+Entrega final				                                █  
 
