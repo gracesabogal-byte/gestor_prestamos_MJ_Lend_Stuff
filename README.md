@@ -1,4 +1,4 @@
-# Gestor de prestamos *Prestaplus MJ*
+# Gestor de prestamos *MJ Lend-Stuff*
 
 ## Integrantes
 - Grace Sabogal Velasco <br>
@@ -30,7 +30,7 @@ La licencia que se ha definido para el registro del software es "MIT license"
 ## Reporte de visión
 
 <div align="justify"> 
-    Una plataforma digital de gestión para el proyecto Gestor de prestamo "Prestaplus MJ", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.</div>
+    Una plataforma digital de gestión para el proyecto Gestor de prestamo "MJ Lend-Stuff", Debido a la situación de Michael Jackson Gamboa (MJ), surge la necesidad de desarrollar un sistema que permita gestionar de manera organizada los préstamos, devoluciones y notificaciones, evitando confusiones y pérdidas de inventario.</div>
 
 ### Objetivos
 
@@ -102,7 +102,7 @@ El sistema debe permitir:
 
 ## Plan del Proyecto
 
-Para el desarrollo del sistema Prestaplus MJ, se definieron las siguientes actividades, teniendo en cuenta las necesidades del caso y los requerimientos planteados:
+Para el desarrollo del sistema MJ Lend-Stuff, se definieron las siguientes actividades, teniendo en cuenta las necesidades del caso y los requerimientos planteados:
 
 * Análisis del problema y comprensión del funcionamiento actual de los préstamos en MJ 
 * Definición de requisitos del sistema (usuarios, ítems, préstamos y ventas) 
