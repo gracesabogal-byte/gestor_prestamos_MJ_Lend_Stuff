@@ -119,36 +119,15 @@ Para el desarrollo del sistema MJ Lend-Stuff, se definieron las siguientes activ
 * Generación de reportes del sistema 
 * Realización de pruebas conceptuales para validar la lógica antes del código 
 * Corrección de errores y ajustes del sistema 
-* Documentación del proyecto y organización del repositorio en GitHub 
+* Documentación del proyecto y organización del repositorio en GitHub
 
-```mermaid
-gantt
-    title Cronograma Proyecto Gestor de Préstamos
-    dateFormat  D
-    axisFormat %d
+  ### Diagrama de Grantt
+  El proyecto tiene una duración de 16 semanas y se divide en dos fases: la primera correspondiente a esta entrega y la segunda como proyección hasta la entrega final.
 
-    section Planeación
-    Análisis del problema        :a1, 1, 2d
-    Definición de requisitos     :a2, 1, 2d
+  <img width="1068" height="442" alt="diagramaGrant" src="https://github.com/user-attachments/assets/7d0c99db-e6e3-4329-b6f9-4e81b68b6c22" />
 
-    section Diseño
-    Diseño del sistema           :a3, 3, 2d
-    Diseño de lógica             :a4, 3, 2d
 
-    section Desarrollo
-    Registro de usuarios         :a5, 5, 2d
-    Registro de ítems            :a6, 5, 2d
-    Módulo de préstamos          :a7, 7, 2d
-    Pruebas conceptuales         :a8, 7, 2d
-    Desarrollo en Python         :a9, 9, 2d
-    Funcionalidades finales      :a10, 11, 2d
 
-    section Cierre
-    Pruebas del sistema          :a11, 11, 2d
-    Manual de usuario            :a12, 13, 2d
-    Organización GitHub          :a13, 13, 2d
-    Preparación sustentación     :a14, 15, 2d 
-```
 
 ## Presupuesto del proyecto
  
